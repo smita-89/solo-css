@@ -1,0 +1,41 @@
+p.small {
+    font-size: small;
+}
+
+p.medium {
+    font-size: medium;
+}
+
+p.large {
+    font-size: large;
+}
+
+p.xlarge {
+    font-size: x-large;
+}
+
+p.small em {
+    font-weight: lighter;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.bolder {
+    font-weight: bolder;
+}
+
+p.light {
+    font-variant: small-caps;
+}
+
+p.normal {
+    font-variant: inherit;
+}
+h1 {
+    color: cyan;
+}
+p.yes {
+    color: rgb(255,0,0);
+}
