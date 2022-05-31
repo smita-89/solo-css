@@ -1,3 +1,39 @@
 p {
     color: aqua;
 }
+
+td.top {
+    vertical-align: top;
+}
+
+td.middle {
+    vertical-align: middle;
+}
+
+td.bottom {
+    vertical-align: bottom;
+}
+
+div.cxl-main{
+
+     border: 1px solid red;
+     height: 200px;
+     width: 100px;
+     vertical-align: middle;
+     vertical-align: bottom;
+}
+td.tops {
+    vertical-align: top;
+}
+
+td.middles {
+    vertical-align: middle;
+}
+
+td.bottoms {
+    vertical-align: bottom;
+}
+
+td.super {
+    vertical-align: super;
+}
